@@ -31,7 +31,7 @@ Hoy exploro nuevas tecnologías para fortalecer mis habilidades como desarrollad
 ---
 
 ##  Proyectos
-### [Gestor de Tareas](https://github.com/tuUsuario/todo-app)
+### [https://github.com/marinagriceldarivas-cmyk/PRUEBAS#pruebas]
 Aplicación web para organizar tareas pendientes.  
 Permite crear, editar y eliminar tareas con una interfaz sencilla y amigable.
 
