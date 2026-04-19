@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**marinagriceldarivas-cmyk/marinagriceldarivas-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 ¡Hola, soy Gricelda Rivas!
 
 ## 🌟 Sobre mí
